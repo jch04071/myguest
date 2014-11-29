@@ -8,3 +8,6 @@ myguest
 2. mongoDB
 3. angularJS
 4. expressJS
+5. GoogleChrome
+6. Microsoft
+7. SUN.
